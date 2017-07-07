@@ -1,0 +1,41 @@
+{
+	"appnews": {
+		"appid": 391540,
+		"newsitems": [
+			{
+				"gid": "378660375670593225",
+				"title": "Official UNDERTALE Merch Now Available for Preorder",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/378660375670593225",
+				"is_external_url": true,
+				"author": "fwugradiation",
+				"contents": "Hey guys. You can pre-order official UNDERTALE merchandise now. There are some shirts, stickers, and a poster. Will let you all know when we add even more. Here on Fangamer. Go Hog Wild",
+				"feedlabel": "Community Announcements",
+				"date": 1446083385,
+				"feedname": "steam_community_announcements"
+			},
+			{
+				"gid": "371903707725615395",
+				"title": "Conversations With Myself: On Undertale s Universal Appeal",
+				"url": "http://store.steampowered.com/news/externalpost/rps/371903707725615395",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/undertale/\">Undertale</a> is a brilliant game and I want everyone to play it. I worry that people will think it&#8217;s so deeply rooted in nostalgia that they&#8217;ll need a degree in RPGs to enjoy it, or that it&#8217;s a series of quirky in-jokes. It isn&#8217;t but I don&#8217;t want to tell you precisely what...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1444932045,
+				"feedname": "rps"
+			},
+			{
+				"gid": "369651273097218877",
+				"title": "Game Of The Month: October Undertale",
+				"url": "http://store.steampowered.com/news/externalpost/rps/369651273097218877",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (RPS)",
+				"contents": "You can defeat Game of the Month by pointing out that it&#8217;s running a week late, but you could <em>also</em> progress by claiming friendship and offering Game of the Month a hug. As it is here, so it is in inventive, uplifting RPG <a href=\"http://www.rockpapershotgun.com/tag/undertale/\">Undertale</a> . As a human cast down into monster territory, you must explore...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1444741204,
+				"feedname": "rps"
+			}
+		]
+		
+	}
+}

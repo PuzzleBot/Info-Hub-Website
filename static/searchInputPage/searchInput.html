@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>Search NYT</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.css') }}", rel="stylesheet">
+    
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='searchInputPage/searchInput_files/searchInput.css') }}", rel="stylesheet">
+        
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+        <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+        <script src="{{ url_for('static', filename='js/ie-emulation-modes-warning.js') }}"></script>
+        
+        
+        <!-- Static JSON file from new york times -->
+        <link href="{{ url_for('static', filename='example.json') }}"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+          <div class="masthead clearfix" id="topButtonBar">
+            <div class="inner">
+                <h3 class="masthead-brand">CIS*3210 Infohub: Search</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li><a href="/">Home</a></li>
+                  <li class="active"><a href="#">Search</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          
+          <br><br><br><br><br>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Search for New York Times articles below.</h1>
+            <p class="lead">News desk to search: 
+            <select id="deskMenu" onChange="updateSearchBtnLink()">
+                <option value="Technology">Technology</option>
+                <option value="Arts">Arts</option>
+                <option value="Science">Science</option>
+                <option value="Sports">Sports</option>
+            </select>
+            </p>
+            <div class="row">
+                <div class="col-lg-3">
+                </div>
+                <div class="col-lg-6">
+                    <label for="searchField">Search for NYT articles (no '/' or '.'):</label>
+                    <input type="text" class="form-control" id="searchField" name="searchIn" width="20" height="3" onChange="updateSearchBtnLink()">
+                </div>
+                <div class="col-lg-3">
+                </div>
+            </div>
+            
+            <br>
+            
+            <div class="row">
+                <p class="lead">
+                <a id="getButton" class="btn btn-lg btn-default" href="/search/">Search</a>
+                <a id="staticButton" class="btn btn-lg btn-default" href="/static/example.json">See static file contents...</a>
+                </p>
+                <p class="lead" id="statusText">Errors displayed here.</p>
+            </div>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Brandon Tan, Student ID: 0845538</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.js') }}"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="{{ url_for('static', filename='js/ie10-viewport-bug-workaround.js') }}"></script>
+    
+    <!-- Event listener functions called by buttons (written by me) -->
+    <script src="{{ url_for('static', filename='js/queryCall.js') }}"></script>
+    
+    <!-- Cookie functions -->
+    <script src="{{ url_for('static', filename='js/cookies.js') }}"></script>
+    
+    <!-- Other short lines of javascript to be executed at start -->
+    <script type="text/javascript">
+        updateSearchBtnLink();
+    </script>
+  
+
+</body></html>

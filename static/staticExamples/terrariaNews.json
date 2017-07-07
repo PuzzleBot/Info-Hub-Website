@@ -1,0 +1,41 @@
+{
+	"appnews": {
+		"appid": 105600,
+		"newsitems": [
+			{
+				"gid": "371902438127786755",
+				"title": "RPS Community Update: What You Did in Dirt Rally, Europa Universalis, Terraria, Trove And More!",
+				"url": "http://store.steampowered.com/news/externalpost/rps/371902438127786755",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Scott Constantine)",
+				"contents": "September was absolutely packed full of games in the RPS community, with events taking place in <a href=\"http://www.rockpapershotgun.com/tag/dirt-rally/\">Dirt Rally</a> , <a href=\"http://www.rockpapershotgun.com/tag/europa-universalis-iv/\">Europa Universalis</a> , <a href=\"http://www.rockpapershotgun.com/tag/guild-wars-2/\">Guild Wars 2</a> , <a href=\"http://www.rockpapershotgun.com/tag/terraria/\">Terraria</a> , <a href=\"http://www.rockpapershotgun.com/tag/trove/\">Trove</a> and more! Want to know what happened and how you can get involved? Read on! &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1443801638,
+				"feedname": "rps"
+			},
+			{
+				"gid": "409054598167572515",
+				"title": "The best Terraria mods",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/409054598167572515",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1441381450,
+				"feedname": "pcgamer"
+			},
+			{
+				"gid": "409053962669669135",
+				"title": "RPS Community Update: What You Did in Dirt Rally, Rocket League, Terraria and Others!",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409053962669669135",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Scott Constantine)",
+				"contents": "August was a busy month for the RPS community, with action seen in <a href=\"http://www.rockpapershotgun.com/tag/dirt-rally/\">Dirt Rally</a> , <a href=\"http://www.rockpapershotgun.com/tag/rocket-league/\">Rocket League</a> , <a href=\"http://www.rockpapershotgun.com/tag/terraria/\">Terraria</a> and others &#8211; including <a href=\"http://www.rockpapershotgun.com/tag/awesomenauts/\">Awesomenauts</a> , <a href=\"http://www.rockpapershotgun.com/tag/natural-selection-2/\">Natural Selection 2</a> and <a href=\"http://www.rockpapershotgun.com/tag/killing-floor/\">Killing Floor</a> . Click on for information about each, along with how you can get involved. &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1441123250,
+				"feedname": "rps"
+			}
+		]
+		
+	}
+}

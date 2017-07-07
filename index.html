@@ -1,0 +1,229 @@
+<!--Used this to help with changing CSS from javascript http://www.w3schools.com/js/js_htmldom_css.asp -->
+
+<!--Used this to figure out how to lay content out in a grid http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp -->
+
+<!--Use some code templates from this Carousel guide: http://www.w3schools.com/bootstrap/bootstrap_carousel.asp -->
+
+<!--Used this to help with embedding custom fonts http://stackoverflow.com/questions/16685979/how-do-i-embed-a-custom-website-font-in-ttf-format-for-all-browsers -->
+
+
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>Infohub</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.css') }}", rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/cover.css') }}", rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="{{ url_for('static', filename='js/ie-emulation-modes-warning.js') }}"></script>
+    
+    
+    <!-- Static JSON file from new york times -->
+    <link href="{{ url_for('static', filename='example.json') }}"></script>
+    
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, target-densitydpi=device-dpi" />
+  <body id="mainBody" width="device-width">
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix" id="topButtonBar">
+            <div class="inner">
+                <h3 class="masthead-brand">CIS*3210 Infohub: Home</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="/">Home</a></li>
+                  <li><a href="/searchPage/">Search</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          
+          <br><br><br><br><br>
+          
+          <div class="inner cover" id="mainContent">
+            <h1 class="cover-heading">CIS*3210: News-feeding home page app</h1>
+            
+            <!-- Main content -->
+            <!--<div class="row">
+                <h1 class="cover-heading" id="steamHeader">Steam game news:</h1>
+            </div>
+            -->
+            <!-- Steam game news carousel -->
+            <div id="steamCarousel" class="carousel slide" data-interval="false" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#steamCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#steamCarousel" data-slide-to="1"></li>
+                </ol>
+                
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <!-- Feed from steam: Most recent news for the game "Undertale" -->
+                        <div class="row">
+                            <div class="col-xs-2" id="bufferBox">
+                            </div>
+                            
+                            <div class="col-xs-8" id="preservedMainBox">
+                                <h1 class="cover-heading" id="undertaleHead">Recent news for Undertale:</h1>
+                                <p class="lead" data-html="true" id="undertaleBody">{{ undertaleData|safe }}
+                                </p>
+                            </div>
+                            
+                            <div class="col-xs-2" id="bufferBox">
+                            </div>
+                        </div>
+                        <br><br>
+                    </div>
+                    
+                    <div class="item">
+                        <!-- Feed from steam: Most recent news for the game "Terraria" -->
+                        <div class="row">
+                            <div class="col-xs-2" id="bufferBox">
+                            </div>
+                            
+                            <div class="col-xs-8" id="preservedMainBox">
+                                <h1 class="cover-heading">Recent news for Terraria:</h1>
+                                <p class="lead" data-html="true">{{ terrariaData|safe }}
+                                </p>
+                            </div>
+                            
+                            <div class="col-xs-2" id="bufferBox">
+                            </div>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>
+                
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#steamCarousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#steamCarousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+            
+            <br>
+            
+            <!-- Feed from NYT: Most popular from the Technology news desk -->
+            <div class="row" id="contentPanel">
+                <div id="mainBoxMobile">
+                    <h1 class="cover-heading">Most popular NYT tech story of the day:</h1>
+                    <p class="lead" data-html="true">{{ popData|safe }}</p>
+                </div>
+                <div class="col-xs-6" id="mainBox">
+                    <h1 class="cover-heading">Most popular NYT tech story of the day:</h1>
+                    <p class="lead" data-html="true">{{ popData|safe }}</p>
+                </div>
+                <div class="col-xs-6" id="mainPic">
+                    <br>
+                    <img src="{{ popImage }}" id="mainPicImg" class="img-rounded">
+
+                </div>
+            </div>
+            
+            <div class="row" id="XKCDcontentPanel">
+                <h1 class="cover-heading">Most recent XKCD: <a id="urlLink" href="https://www.xkcd.com">"{{ xkcdTitle|safe }}"</a></h1>
+                <img src="{{ xkcdComic|safe }}" id="comic">
+                <p class="lead">
+                "{{ xkcdSubtitle|safe }}"
+                </p>
+            </div>
+            
+            <div class="row" id="contentPanel">
+                <div id="preservedMainBox">
+                    <h1 class="cover-heading">The Plan for the Application</h1>
+                    <p class="lead">
+                    I am building a simple application which fetches and displays the most recent news pertaining generally to technology and gaming from multiple sources (with one source being the New York Times, and another being steampowered.com's open news api). The application is intended to be used as a home page for a browser.<br>
+                    <br>
+                    This week's additions:<br>
+                    - Alternate display mode for mobile<br>
+                    
+                    KNOWN ISSUE:<br>
+                    - Resizing the window on Google Chrome causes the auto-resizing to act strangely. This is due to the images and carousel causing bootstrap's resize mechanism to not function properly on certain browsers, and is not an easy fix. The issue is not present on pages without these elements, such as the search page.
+                    </p>
+                </div>
+            </div>
+            
+            <br>
+            
+            <div class="row">
+                <form>
+                    Black backround <input type="radio" id="blackRadio" name="colorRadio" onChange="updateColour('black')"><br>
+                    Navy blue backround <input type="radio" id="navyRadio" name="colorRadio" onChange="updateColour('navy')">
+                </form>
+                <br>
+                <p>Brandon Tan, Student ID: 0845538</p>
+            </div>
+    
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.js') }}"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="{{ url_for('static', filename='js/ie10-viewport-bug-workaround.js') }}"></script>
+    
+    <!-- Event listener functions called by buttons (written by me) -->
+    <script src="{{ url_for('static', filename='js/queryCall.js') }}"></script>
+    
+    <!-- Cookie functions -->
+    <script src="{{ url_for('static', filename='js/cookies.js') }}"></script>
+    
+    <!-- Other short lines of javascript to be executed at start -->
+    <script type="text/javascript">
+        getColourCookie();
+        
+        document.getElementById("mainBody").style.width = window.innerWidth + "px";
+        
+        $(window).resize(function() {
+             document.getElementById("mainBody").style.width = window.innerWidth + "px";
+        });
+        
+        $('#body').css('min-width', '100%');
+    </script>
+  
+
+</body></html>

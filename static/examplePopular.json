@@ -1,0 +1,1049 @@
+{
+    "status":"OK",
+    "copyright":"Copyright (c) 2015 The New York Times Company.  All Rights Reserved.",
+    "num_results":20,
+    "results":[
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/29\/technology\/personaltech\/the-new-apple-tv-invigorates-the-set-top-box.html",
+            "adx_keywords":"Apple Inc;Television Sets and Media Devices;Mobile Applications;Computer and Video Games;Apple TV",
+            "column":"Tech Fix",
+            "section":"Technology",
+            "byline":"By BRIAN X. CHEN",
+            "type":"Article",
+            "title":"The New Apple TV Invigorates the Set-Top Box",
+            "abstract":"Its plethora of innovations and apps leads me to conclude that the upgraded box is now the best TV streaming device.",
+            "published_date":"2015-10-29",
+            "source":"The New York Times",
+            "id":100000004003286,
+            "asset_id":100000004003286,
+            "views":1,
+            "des_facet":[
+                "TELEVISION SETS AND MEDIA DEVICES",
+                "MOBILE APPLICATIONS",
+                "COMPUTER AND VIDEO GAMES"
+            ],
+            "org_facet":[
+                "APPLE INC",
+                "APPLE TV"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"The revamped Apple TV, with a redesigned remote control.",
+                    "copyright":"Apple",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/techfix-listy-appletv-screen\/techfix-listy-appletv-screen-thumbStandard.png",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/techfix-listy-appletv-screen\/techfix-listy-appletv-screen-mediumThreeByTwo210.png",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/techfix-listy-appletv-screen\/techfix-listy-appletv-screen-mediumThreeByTwo440.png",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/07\/technology\/fans-demand-details-after-death-of-a-13-year-old-bratayley-star.html",
+            "adx_keywords":"Bratayley, Caleb Logan (2002-15);YouTube.com;Bratayley (Web-Original Program);Web-Original Programming",
+            "column":"",
+            "section":"Technology",
+            "byline":"By KATIE ROGERS",
+            "type":"Article",
+            "title":"Fans Demand Details After Death of a 13-Year-Old YouTube Star",
+            "abstract":"Curiosity surrounding the death was so intense that the boy\u2019s relatives and the authorities were pressed to release further details surrounding how he died.",
+            "published_date":"2015-10-07",
+            "source":"The New York Times",
+            "id":100000003960889,
+            "asset_id":100000003960889,
+            "views":2,
+            "des_facet":[
+                "WEB-ORIGINAL PROGRAMMING"
+            ],
+            "org_facet":[
+                "YOUTUBE.COM"
+            ],
+            "per_facet":[
+                "BRATAYLEY, CALEB LOGAN (2002-15)"
+            ],
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"The \u201cBratayley\u201d siblings, including Caleb, left, at an event in Australia in September.",
+                    "copyright":"Jason Reed\/Reuters",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/06\/us\/07YOUTUBE-web\/07YOUTUBE-thumbStandard-v3.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/06\/us\/07YOUTUBE-web\/07YOUTUBE-mediumThreeByTwo210-v3.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/06\/us\/07YOUTUBE-web\/07YOUTUBE-mediumThreeByTwo440-v3.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/29\/technology\/ibm-to-acquire-the-weather-company.html",
+            "adx_keywords":"International Business Machines Corporation;Weather Co;Mergers, Acquisitions and Divestitures;Computers and the Internet",
+            "column":"",
+            "section":"Technology",
+            "byline":"By QUENTIN HARDY",
+            "type":"Article",
+            "title":"IBM to Acquire the Weather Company",
+            "abstract":"The company said it had entered into an agreement to acquire most of the assets of the Weather Company, and its data could be combined with IBM\u2019s Watson.",
+            "published_date":"2015-10-29",
+            "source":"The New York Times",
+            "id":100000004003989,
+            "asset_id":100000004003989,
+            "views":3,
+            "des_facet":[
+                "MERGERS, ACQUISITIONS AND DIVESTITURES",
+                "COMPUTERS AND THE INTERNET"
+            ],
+            "org_facet":[
+                "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+                "WEATHER CO"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"David Kenny, right, the Weather Company\u2019s chief executive, with Bob Picciano, senior vice president of IBM's information and analytics group.",
+                    "copyright":"Feature Photo Service for IBM",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29ibm-web\/29ibm-web-thumbStandard-v2.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29ibm-web\/29ibm-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29ibm-web\/29ibm-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/interactive\/2015\/10\/28\/technology\/personaltech\/How-Apple-TV-Stacks-Up.html",
+            "adx_keywords":"",
+            "column":"",
+            "section":"Technology",
+            "byline":"By BRIAN X. CHEN",
+            "type":"Interactive",
+            "title":"How Apple TV Stacks Up: A Rundown of Streaming Devices",
+            "abstract":"We tested video streaming devices from Apple, Amazon, Roku and Google, and the Apple TV stood out. But it\u2019s not the best for everyone. Here are the pros and cons of each device.",
+            "published_date":"2015-10-28",
+            "source":"The New York Times",
+            "id":100000004005098,
+            "asset_id":100000004005098,
+            "views":4,
+            "des_facet":[
+                "TELEVISION SETS AND MEDIA DEVICES"
+            ],
+            "org_facet":[
+                "APPLE TV",
+                "GOOGLE INC",
+                "ROKU",
+                "AMAZON.COM INC"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"",
+                    "copyright":"Apple",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/techfix-listy-appleTV\/techfix-listy-appleTV-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/techfix-listy-appleTV\/techfix-listy-appleTV-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/techfix-listy-appleTV\/techfix-listy-appleTV-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/08\/technology\/personaltech\/if-your-wi-fi-is-terrible-check-your-router.html",
+            "adx_keywords":"Computers and the Internet;Wireless Communications;Wirecutter, The",
+            "column":"Tech Fix",
+            "section":"Technology",
+            "byline":"By BRIAN X. CHEN",
+            "type":"Article",
+            "title":"If Your Wi-Fi Is Terrible, Check Your Router",
+            "abstract":"Many frustrating speed bottlenecks at home can be traced to that dusty old box in your basement.",
+            "published_date":"2015-10-08",
+            "source":"The New York Times",
+            "id":100000003959810,
+            "asset_id":100000003959810,
+            "views":5,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET",
+                "WIRELESS COMMUNICATIONS"
+            ],
+            "org_facet":[
+                "WIRECUTTER, THE"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"",
+                    "copyright":"Tom Grillo",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/08\/technology\/personaltech\/08techfix-illo\/08techfix-illo-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/08\/technology\/personaltech\/08techfix-illo\/08techfix-illo-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/08\/technology\/personaltech\/08techfix-illo\/08techfix-illo-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/28\/technology\/apple-iphone-earnings.html",
+            "adx_keywords":"Apple Inc;Company Reports;iPhone",
+            "column":"",
+            "section":"Technology",
+            "byline":"By KATIE BENNER",
+            "type":"Article",
+            "title":"IPhone\u00a0Demand Drives Apple Profit, but Outlook Is Muted",
+            "abstract":"Despite strong sales of the new iPhone models, Apple\u2019s forecast for the holiday season \u2014 traditionally its strongest quarter \u2014 was cautious.",
+            "published_date":"2015-10-28",
+            "source":"The New York Times",
+            "id":100000004001811,
+            "asset_id":100000004001811,
+            "views":6,
+            "des_facet":[
+                "COMPANY REPORTS",
+                "IPHONE"
+            ],
+            "org_facet":[
+                "APPLE INC"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"An Apple store in New York. The company\u2019s quarterly results exceeded Wall Street estimates, but its projections were cautious.",
+                    "copyright":"Sam Hodgson for The New York Times",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28apple-web1\/28apple-web1-thumbStandard-v2.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28apple-web1\/28apple-web1-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28apple-web1\/28apple-web1-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/28\/mark-zuckerberg-in-india-defends-facebooks-plan-to-expand-internet-access\/",
+            "adx_keywords":"Computers and the Internet; Facebook Inc; India; Internet.org; Net Neutrality; Zuckerberg, Mark E",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By PAUL MOZUR",
+            "type":"Blog",
+            "title":"Mark Zuckerberg, in India, Defends Facebook&#8217;s Plan to Expand Internet Access",
+            "abstract":"He said that Internet.org, which offers a stripped down version of the Internet to minimize data use, had one million members in India and 15 million users globally.",
+            "published_date":"2015-10-28",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":7,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET",
+                "NET NEUTRALITY"
+            ],
+            "org_facet":[
+                "FACEBOOK INC",
+                "INTERNET.ORG"
+            ],
+            "per_facet":[
+                "ZUCKERBERG, MARK E"
+            ],
+            "geo_facet":[
+                "INDIA"
+            ],
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Mark Zuckerberg, chief executive of Facebook, at the Indian Institute of Technology in New Delhi on Wednesday.",
+                    "copyright":"Money Sharma\/Agence France-Presse \u2014 Getty Images",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29Zuckerberg2-web\/29Zuckerberg2-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29Zuckerberg2-web\/29Zuckerberg2-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/business\/29Zuckerberg2-web\/29Zuckerberg2-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/27\/backlash-grows-over-sxsws-canceled-video-game-panels\/",
+            "adx_keywords":"Austin (Tex); BuzzFeed Inc; Computers and the Internet; Cyberharassment; Freedom of the Press; Social Media; South by Southwest Music and Media Conference; Vox Media Inc; Buzzfeed Inc",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By NICK WINGFIELD",
+            "type":"Blog",
+            "title":"Backlash Grows Over SXSW Interactive&#8217;s Canceled Video Game Panels",
+            "abstract":"A day after SXSW Interactive canceled two video game panels related to the so-called GamerGate movement over threats of violence, two digital media organizations threatened to pull out of the tech conference.",
+            "published_date":"2015-10-27",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":8,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET",
+                "CYBERHARASSMENT",
+                "FREEDOM OF THE PRESS",
+                "SOCIAL MEDIA",
+                "SOUTH BY SOUTHWEST MUSIC AND MEDIA CONFERENCE"
+            ],
+            "org_facet":[
+                "BUZZFEED INC",
+                "VOX MEDIA INC"
+            ],
+            "per_facet":"",
+            "geo_facet":[
+                "AUSTIN (TEX)"
+            ],
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Video games were featured at the SXSW Interactive gathering in Austin, Tex., in March. The organizers\u2019 decision to cancel two panels on video game culture next year has led to a backlash.<br \/><br \/>",
+                    "copyright":"David Paul Morris\/Bloomberg, via Getty Images",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/28bits-sxsw\/28bits-sxsw-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/28bits-sxsw\/28bits-sxsw-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/technology\/28bits-sxsw\/28bits-sxsw-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/27\/ibm-discloses-s-e-c-investigation\/",
+            "adx_keywords":"Computers and the Internet; International Business Machines Corporation",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By QUENTIN HARDY",
+            "type":"Blog",
+            "title":"IBM Discloses S.E.C. Investigation",
+            "abstract":"The computing giant disclosed in a regulatory filing that accounting practices in three countries are under scrutiny.",
+            "published_date":"2015-10-27",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":9,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET"
+            ],
+            "org_facet":[
+                "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Virginia M. Rometty, IBM\u2019s chief executive.",
+                    "copyright":"Mike Blake\/Reuters",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/27bits-rometty\/27bits-rometty-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/27bits-rometty\/27bits-rometty-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/27\/technology\/27bits-rometty\/27bits-rometty-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/22\/technology\/personaltech\/lease-a-smartphone-or-buy-it-the-pros-and-cons.html",
+            "adx_keywords":"Smartphones;Apple Inc;Prices (Fares, Fees and Rates);Leasing",
+            "column":"Tech Fix",
+            "section":"Technology",
+            "byline":"By BRIAN X. CHEN",
+            "type":"Article",
+            "title":"Lease a Smartphone or Buy It? The Pros and Cons",
+            "abstract":"It\u2019s cheaper to own your smartphone outright, but early-upgrade plans from Apple and wireless carriers offer some other advantages.",
+            "published_date":"2015-10-22",
+            "source":"The New York Times",
+            "id":100000003987908,
+            "asset_id":100000003987908,
+            "views":10,
+            "des_facet":[
+                "SMARTPHONES",
+                "PRICES (FARES, FEES AND RATES)"
+            ],
+            "org_facet":[
+                "APPLE INC"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"",
+                    "copyright":"Minh Uong\/The New York Times",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22TECHFIX-illo\/22TECHFIX-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22TECHFIX-illo\/22TECHFIX-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22TECHFIX-illo\/22TECHFIX-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/29\/technology\/personaltech\/streamlining-data-hoarding-apps.html",
+            "adx_keywords":"Mobile Applications;Android (Operating System);iPhone;Google Inc;Data Storage;Computers and the Internet;Microsoft Corp",
+            "column":"Q&A",
+            "section":"Technology",
+            "byline":"By J. D. BIERSDORFER",
+            "type":"Article",
+            "title":"Streamlining Data-Hoarding Apps",
+            "abstract":"The iPhone allows users to manage the storage of their apps and uninstall the ones that are no longer needed. Old files and photos can be dumped too.",
+            "published_date":"2015-10-29",
+            "source":"The New York Times",
+            "id":100000003994422,
+            "asset_id":100000003994422,
+            "views":11,
+            "des_facet":[
+                "MOBILE APPLICATIONS",
+                "DATA STORAGE",
+                "COMPUTERS AND THE INTERNET"
+            ],
+            "org_facet":[
+                "GOOGLE INC",
+                "MICROSOFT CORP"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"An app\u2019s Info page shows how much space the program takes up \u2014 and how much its related files consume.",
+                    "copyright":"",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/technology\/29askk-web\/29askk-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/29\/technology\/29askk-web\/29askk-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/14\/preparing-for-disaster-when-your-phone-is-gone\/",
+            "adx_keywords":"Android (Operating System); iPhone; Robberies and Thefts; Smartphones",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By KATIE BENNER",
+            "type":"Blog",
+            "title":"Preparing for Disaster: When Your Phone Is Gone",
+            "abstract":"A primer on how to track and disable iPhones or Androids that go missing.",
+            "published_date":"2015-10-14",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":12,
+            "des_facet":[
+                "ANDROID (OPERATING SYSTEM)",
+                "IPHONE",
+                "ROBBERIES AND THEFTS",
+                "SMARTPHONES"
+            ],
+            "org_facet":"",
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"",
+                    "copyright":"Damir Sagolj\/Reuters",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/15\/technology\/15TRACK\/15TRACK-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/15\/technology\/15TRACK\/15TRACK-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/15\/technology\/15TRACK\/15TRACK-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/25\/technology\/farhad-and-mikes-week-in-tech-microsoft-in-the-cloud.html",
+            "adx_keywords":"Cloud Computing;Computer and Video Games;Company Reports;Microsoft Corp;Amazon.com Inc;YouTube.com;Nadella, Satya;Dorsey, Jack",
+            "column":"",
+            "section":"Technology",
+            "byline":"By MIKE ISAAC and NICK WINGFIELD",
+            "type":"Article",
+            "title":"Mike and Nick\u2019s Week in Tech: Microsoft in the Cloud",
+            "abstract":"Farhad Manjoo is off this week, so tech reporter Nick Wingfield joins Mike Isaac to discuss Microsoft, whose chief, Satya Nadella, has made some helpful changes in the last 18 months.",
+            "published_date":"2015-10-25",
+            "source":"The New York Times",
+            "id":100000003995666,
+            "asset_id":100000003995666,
+            "views":13,
+            "des_facet":[
+                "CLOUD COMPUTING",
+                "COMPUTER AND VIDEO GAMES"
+            ],
+            "org_facet":[
+                "MICROSOFT CORP",
+                "AMAZON.COM INC",
+                "YOUTUBE.COM"
+            ],
+            "per_facet":[
+                "NADELLA, SATYA",
+                "DORSEY, JACK"
+            ],
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"With Satya Nadella as chief executive, Microsoft has scaled back its ambitions in smartphones, while getting many people to use Office apps on other mobile devices.",
+                    "copyright":"Richard Drew\/Associated Press",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/25\/business\/25technewsletter-web1\/25technewsletter-web1-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/25\/business\/25technewsletter-web1\/25technewsletter-web1-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/25\/business\/25technewsletter-web1\/25technewsletter-web1-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/22\/technology\/personaltech\/microsofts-rule-breaking-vision-of-a-future-with-countless-devices.html",
+            "adx_keywords":"Microsoft Corp;Tablet Computers;Laptop Computers;Smartphones;Apple Inc;Google Inc;Windows (Operating System);iPad;Software;iOS (Operating System);Nadella, Satya",
+            "column":"State of the Art",
+            "section":"Technology",
+            "byline":"By FARHAD MANJOO",
+            "type":"Article",
+            "title":"Microsoft\u2019s Rule-Breaking Vision of a Future With Countless Devices",
+            "abstract":"Microsoft is embracing a fragmented view of the future, in which no single device, or even single category of devices, reigns supreme. The plan is rife with risk \u2014 but that doesn\u2019t mean it can\u2019t work.",
+            "published_date":"2015-10-22",
+            "source":"The New York Times",
+            "id":100000003984650,
+            "asset_id":100000003984650,
+            "views":14,
+            "des_facet":[
+                "TABLET COMPUTERS",
+                "WINDOWS (OPERATING SYSTEM)",
+                "SOFTWARE"
+            ],
+            "org_facet":[
+                "MICROSOFT CORP",
+                "APPLE INC",
+                "GOOGLE INC"
+            ],
+            "per_facet":[
+                "NADELLA, SATYA"
+            ],
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"",
+                    "copyright":"Stuart Goldenberg",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22state-web\/22state-web-thumbStandard-v4.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22state-web\/22state-web-mediumThreeByTwo210-v4.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/22\/business\/22state-web\/22state-web-mediumThreeByTwo440-v4.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/23\/technology\/amazon-q3-earnings.html",
+            "adx_keywords":"Amazon.com Inc;Company Reports",
+            "column":"",
+            "section":"Technology",
+            "byline":"By DAVID STREITFELD",
+            "type":"Article",
+            "title":"Amazon Posts an Unexpected Profit, and Its Shares Soar",
+            "abstract":"The company reported net income of 17 cents a share, rather than the 13-cent loss analysts expected. Its shares rose as much as 10 percent after-hours.",
+            "published_date":"2015-10-23",
+            "source":"The New York Times",
+            "id":100000003992895,
+            "asset_id":100000003992895,
+            "views":15,
+            "des_facet":[
+                "COMPANY REPORTS"
+            ],
+            "org_facet":[
+                "AMAZON.COM INC"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"An Amazon fulfillment center in DuPont, Wash.",
+                    "copyright":"Ted S. Warren\/Associated Press",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23AMAZON-web\/23AMAZON-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23AMAZON-web\/23AMAZON-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23AMAZON-web\/23AMAZON-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/23\/technology\/microsoft-earnings.html",
+            "adx_keywords":"Microsoft Corp;Computers and the Internet;Cloud Computing;Company Reports",
+            "column":"",
+            "section":"Technology",
+            "byline":"By NICK WINGFIELD",
+            "type":"Article",
+            "title":"Microsoft Earnings Climb, Lifted by Strong Growth in Cloud Computing",
+            "abstract":"A much bigger test for Microsoft will come during the quarter now underway, when a flood of new hardware running Windows goes on sale.",
+            "published_date":"2015-10-23",
+            "source":"The New York Times",
+            "id":100000003992985,
+            "asset_id":100000003992985,
+            "views":16,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET",
+                "COMPANY REPORTS"
+            ],
+            "org_facet":[
+                "MICROSOFT CORP"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"This quarter is the first to reflect financial results from Windows 10, one of Microsoft\u2019s biggest new software products in years.",
+                    "copyright":"Jewel Samad\/Agence France-Presse \u2014 Getty Images",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23MICROSOFT-web\/23MICROSOFT-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23MICROSOFT-web\/23MICROSOFT-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23MICROSOFT-web\/23MICROSOFT-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/28\/technology\/twitter-q3-earnings.html",
+            "adx_keywords":"Twitter;Company Reports;Dorsey, Jack;Square Inc;Bain, Adam M (1973- )",
+            "column":"",
+            "section":"Technology",
+            "byline":"By VINDU GOEL",
+            "type":"Article",
+            "title":"Dismal Twitter Forecast and Flat User Growth Send Its Stock Lower",
+            "abstract":"The social media company, now led by Jack Dorsey, a co-founder, has struggled to make its service appealing to those who are not devoted users.",
+            "published_date":"2015-10-28",
+            "source":"The New York Times",
+            "id":100000004000728,
+            "asset_id":100000004000728,
+            "views":17,
+            "des_facet":"",
+            "org_facet":[
+                "TWITTER",
+                "SQUARE INC"
+            ],
+            "per_facet":[
+                "DORSEY, JACK",
+                "BAIN, ADAM M (1973- )"
+            ],
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Jack Dorsey, Twitter\u2019s chief executive, third from left, after a company event in New York this month.",
+                    "copyright":"Bryan Thomas for The New York Times",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28twitter-web\/28twitter-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28twitter-web\/28twitter-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/28\/business\/28twitter-web\/28twitter-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/26\/sxsw-cancels-gamer-panels-after-threats\/",
+            "adx_keywords":"Austin (Tex); Computer and Video Games; Computers and the Internet; Cyberharassment; South by Southwest Music and Media Conference",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By NICK WINGFIELD",
+            "type":"Blog",
+            "title":"SXSW Cancels Gamer Panels After Threats",
+            "abstract":"Both panels appear to have been dedicated to exploring issues that have polarized the gaming community since last year, when an online movement known by the Twitter hashtag #GamerGate first formed.",
+            "published_date":"2015-10-26",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":18,
+            "des_facet":[
+                "COMPUTER AND VIDEO GAMES",
+                "COMPUTERS AND THE INTERNET",
+                "CYBERHARASSMENT",
+                "SOUTH BY SOUTHWEST MUSIC AND MEDIA CONFERENCE"
+            ],
+            "org_facet":"",
+            "per_facet":"",
+            "geo_facet":[
+                "AUSTIN (TEX)"
+            ],
+            "media":""
+        },
+        {
+            "url":"http:\/\/www.nytimes.com\/2015\/10\/23\/technology\/google-q3-earnings-alphabet.html",
+            "adx_keywords":"Google Inc;Alphabet Inc;Company Reports;Computers and the Internet;Stocks and Bonds",
+            "column":"",
+            "section":"Technology",
+            "byline":"By CONOR DOUGHERTY",
+            "type":"Article",
+            "title":"Google Announces Stock Buyback as Earnings Rise",
+            "abstract":"Google, now called Alphabet, announced that its board had authorized the company to spend $5.1 billion buying back its shares starting this year.",
+            "published_date":"2015-10-23",
+            "source":"The New York Times",
+            "id":100000003993194,
+            "asset_id":100000003993194,
+            "views":19,
+            "des_facet":[
+                "COMPUTERS AND THE INTERNET"
+            ],
+            "org_facet":[
+                "GOOGLE INC",
+                "ALPHABET INC"
+            ],
+            "per_facet":"",
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Google\u2019s offices in New York. The company this month reorganized into the holding company Alphabet.",
+                    "copyright":"Sam Hodgson for The New York Times",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23GOOGLE-web\/23GOOGLE-web-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23GOOGLE-web\/23GOOGLE-web-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/10\/23\/business\/23GOOGLE-web\/23GOOGLE-web-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url":"http:\/\/bits.blogs.nytimes.com\/2015\/10\/22\/jack-dorsey-gives-one-third-of-twitter-stake-to-employees\/",
+            "adx_keywords":"Dorsey, Jack; Executive Compensation; Initial Public Offerings; Mobile Commerce and Payments; Social Media; Square Inc; Twitter",
+            "column":"Bits",
+            "section":"Technology",
+            "byline":"By VINDU GOEL",
+            "type":"Blog",
+            "title":"Jack Dorsey Gives One-Third of Twitter Stake to Employees",
+            "abstract":"The chief executive of Twitter said he would give about $200 million of stock to be used to increase compensation to employees. The donation follows a large gift he made last week of his stock in Square, a mobile payments company that he also runs.",
+            "published_date":"2015-10-22",
+            "source":"The New York Times",
+            "id":22,
+            "asset_id":22,
+            "views":20,
+            "des_facet":[
+                "EXECUTIVE COMPENSATION",
+                "INITIAL PUBLIC OFFERINGS",
+                "MOBILE COMMERCE AND PAYMENTS",
+                "SOCIAL MEDIA"
+            ],
+            "org_facet":[
+                "SQUARE INC",
+                "TWITTER"
+            ],
+            "per_facet":[
+                "DORSEY, JACK"
+            ],
+            "geo_facet":"",
+            "media":[
+                {
+                    "type":"image",
+                    "subtype":"photo",
+                    "caption":"Jack Dorsey, chief at Twitter and Square.",
+                    "copyright":"Mike Blake\/Reuters",
+                    "media-metadata":[
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/07\/25\/business\/25dorsey\/25dorsey-thumbStandard.jpg",
+                            "format":"Standard Thumbnail",
+                            "height":75,
+                            "width":75
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/07\/25\/business\/25dorsey\/25dorsey-mediumThreeByTwo210.jpg",
+                            "format":"mediumThreeByTwo210",
+                            "height":140,
+                            "width":210
+                        },
+                        {
+                            "url":"http:\/\/static01.nyt.com\/images\/2015\/07\/25\/business\/25dorsey\/25dorsey-mediumThreeByTwo440.jpg",
+                            "format":"mediumThreeByTwo440",
+                            "height":293,
+                            "width":440
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
