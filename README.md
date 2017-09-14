@@ -1,14 +1,12 @@
 # Info-Hub-Website
 A website built using Python-Flask and Javascript, as part of a Computer Networks course. (2015)
 
-The website will not work at the moment, since the database it depends on is no longer running. I will be correcting this soon, but for now just host the static version of the site.
+Unfortunately, the full site can no longer be hosted due to the fact that the database it relies on no longer exists, and the NYT api key is no longer valid.
 
 
 ## Hosting the website on localhost
 
 In order to host the website, first make sure that Python-Flask is installed. Installation instructions can be found [here.](http://flask.pocoo.org/)
-
-Unfortunately, the full site can no longer be hosted due to the fact that the database it relies on no longer exists, and the NYT api key is no longer valid.
 
 To host the static version with no database or REST functionality, navigate to this directory and use "python host_static.py"
 
