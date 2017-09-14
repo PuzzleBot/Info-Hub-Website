@@ -8,9 +8,9 @@ The website will not work at the moment, since the database it depends on is no 
 
 In order to host the website, first make sure that Python-Flask is installed. Installation instructions can be found [here.](http://flask.pocoo.org/)
 
-To host the normal version of the site with complete database and REST functionality, navigate to this directory and use the command "python host_site.py".
+Unfortunately, the full site can no longer be hosted due to the fact that the database it relies on no longer exists, and the NYT api key is no longer valid.
 
-To host the static version with no database or REST functionality, replace "host_site.py" with "host_static.py"
+To host the static version with no database or REST functionality, navigate to this directory and use "python host_static.py"
 
 The website will then be hosted on 127.0.0.1:5000, which can be accessed using any web browser.
 
